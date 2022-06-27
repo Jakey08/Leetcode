@@ -1,3 +1,3 @@
 # Leetcode
 
-## For practcing algorithms and datastructes
+## For practicing algorithms and datastructes
